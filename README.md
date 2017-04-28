@@ -1,2 +1,4 @@
 # netease-cells
-netease-online-classroom assignment
+My nickname is RushChuh.
+
+This is the second Netease-online-classroom project of Git.
